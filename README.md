@@ -41,9 +41,11 @@ Estruturação semântica básica
 Organização de arquivos para ambiente web
 
 📂 Estrutura do Projeto
-/universidade-fake
-│── index.html
+/HTML
 │── imagens/
+│── index.html
+│── quem-somos.html
+│── contato.html
 │── README.md
 
 🚀 Como Visualizar o Projeto
@@ -68,3 +70,4 @@ Responsividade
 Interatividade com JavaScript
 
 Integração com formulários funcionais
+
